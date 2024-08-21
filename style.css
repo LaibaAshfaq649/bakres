@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.left{
+    text-align: left;
+    font-size: 40px;
+   background-color: rgb(247, 171, 85);
+   border-style: dashed;
+   margin: 2%;
+   padding: 2%;
+
+}
+.right{
+    text-align: right;
+    font-size: 40px;
+    background-color: rgb(143, 101, 38);
+    border-style: dashed;
+    margin: 2%;
+    padding: 2%;
+}
+
+
+
+
+
